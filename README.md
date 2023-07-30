@@ -3,6 +3,7 @@
 
 * **Unique and Novel feature of our project,** 
 We  were able to get the real time Emotion of the User and save it in a dataset, which will be really helpful to learn about the User’s Emotion history and can also be used to Cure Depression, know and warn about Stress, etc.
+
 ![image](https://github.com/SSD-Siddharth/Real-Time-Facial-Emotion-Recognition-with-AI-Depression-Detection/assets/72315144/175ac9a6-77cb-4d09-93cb-3df1bd1f7108)
 
 ![image](https://github.com/SSD-Siddharth/Real-Time-Facial-Emotion-Recognition-with-AI-Depression-Detection/assets/72315144/2e688f2b-69ea-49f6-bd74-4502d4472e49)
